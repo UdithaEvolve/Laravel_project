@@ -15,3 +15,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/supplier_home', 'SupplierController@HomePage');
 Route::get('/supplier_new', 'SupplierController@New');
+Route::get('/suplmas_home_data', 'SupplierController@HomeData');
+Route::post('/supplier_save', 'SupplierController@Save');

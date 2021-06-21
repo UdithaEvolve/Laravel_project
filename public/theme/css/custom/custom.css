@@ -1,0 +1,13 @@
+.pt-2{padding-top: 2%}
+.pb-2{padding-bottom: 2%}
+.pt-3{padding-top: 3%}
+.pb-3{padding-bottom: 3%}
+.pt-4{padding-top: 4%}
+.pb-4{padding-bottom: 4%}
+.mini-alert{padding:6px 10px 6px 10px }
+.mini-alert{padding:6px 10px 6px 10px}
+
+.switch span{margin-bottom: -5px;}
+.switch.switch-small span:after {width: 13px;}
+.btn.btn-sm, .btn-group-sm > .btn {font-size: 8px;padding: 0px 4px;}
+.mini-alert{padding:6px 10px 6px 10px}
